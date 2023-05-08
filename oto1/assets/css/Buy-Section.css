@@ -1,0 +1,84 @@
+.buy-btn {
+  text-align: center;
+  display: block;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-size: 43px;
+  cursor: pointer;
+  padding: .5em 1em;
+  background: #FFB13E;
+  font-weight: bold;
+  border-radius: 15px;
+  border-bottom: 10px solid rgba(79,14,0,0.31);
+}
+
+.buy-btn:hover {
+  cursor: pointer;
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-icon {
+  margin-left: .3em;
+}
+
+.buy-btn-subtext {
+  color: rgba(255,255,255,0.7);
+}
+
+.text-center.text-white.mt-4 {
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 768px) {
+  h3 {
+    font-size: 17px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  h4 {
+    font-size: 15.5px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  h5 {
+    font-size: 14px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  .buy-btn {
+    font-size: 25px;
+  }
+}
+
+.text-center.text-white.mt-5 {
+}
+
+.gradient-bg-blue {
+  background: #7f7fd5;
+  background: -webkit-linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4);
+  background: linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4);
+}
+
+.timer {
+  font-family: Roboto;
+  font-size: 50px;
+  letter-spacing: 10px;
+  margin-top: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+

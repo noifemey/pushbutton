@@ -1,0 +1,14 @@
+Dear {member_name},
+<br/><br/>
+Welcome to the Push Button family! 
+<br/><br/>
+Please find your login details here:
+<br/><br/>
+Login Page: {login_url} <br/>
+User Name: {member_email}<br/>
+Password: {member_password}
+<br/><br/>
+For any support inquiries, please send it to support@pushbutton-vip.com
+<br/><br/>
+Thank you,<br/>
+Push Button Team

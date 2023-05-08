@@ -1,0 +1,11 @@
+Hi {member_name},
+<br/><br/>
+Your Push Buttonn Sites account details has been modified by the admin.
+<br/><br/>
+Here is your login details -<br/>
+Login URL - {login_url}<br/>
+Email - {member_email}<br/>
+Password - {member_password}
+<br /><br />To your success,
+<br/><br/>
+Shawn Josiah

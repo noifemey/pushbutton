@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond $1 !^(index\.php|robots\.txt|favicon\.ico)
+RewriteRule ^(.*)$ index.php?/$1 [L]
+Header set X-FRAME-OPTIONS "ALLOW-FROM https://www.pushbutton-vip.com/" 

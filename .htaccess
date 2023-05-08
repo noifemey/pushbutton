@@ -1,0 +1,12 @@
+Options -Indexes
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond $1 !^(index\.php|robots\.txt|favicon\.ico)
+RewriteRule ^(.*)$ index.php?/$1 [L]
+RewriteCond %{HTTP_HOST} ^pushbutton-vip\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.pushbutton-vip\.com$
+RewriteRule ^/?$ "https\:\/\/pushbutton-vip\.com\/" [R=301,L]
+

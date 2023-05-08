@@ -1,0 +1,4 @@
+Hi {member_name},<br /><br />You recently requested to reset your password for your <b>Push Button</b><br>
+account. Click the button below to reset it.<br /><br /><a href="{reset_url}">Reset Password</a><br /><br />To your
+success,<br /><br />Shawn Josiah
+<br /><br /><br /><br />* This is an auto-generated email. Please do not reply to this email.

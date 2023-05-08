@@ -1,0 +1,18 @@
+Hi {member_name},
+<br/><br/>
+We have received your request for your Push Button Account - thank you for your
+business!<br /><br />Please Activate your account <a href="{activate_link}">click here</a>.<br /><br />Below, you will
+find
+your login
+details.
+<br/><br/>
+Here is your login details -<br/>
+Login URL - {login_url}<br/>
+Email - {member_email}<br/>
+Password - {member_password}
+<br/><br/>
+You can change your password from your account dashboard.
+<br /><br />To your success,
+<br/><br/>
+Shawn Josiah
+<br /><br /><br /><br />* This is an auto-generated email. Please do not reply to this email.
